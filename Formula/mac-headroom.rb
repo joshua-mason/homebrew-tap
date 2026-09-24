@@ -1,8 +1,8 @@
 class MacHeadroom < Formula
   desc "Find where macOS disk space went and clear caches safely"
   homepage "https://github.com/joshua-mason/mac-headroom"
-  url "https://github.com/joshua-mason/mac-headroom/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "52e782fe9a7b48ff680bd18d0da30c53104938752b9da391c60baa2b6b289f02"
+  url "https://github.com/joshua-mason/mac-headroom/archive/refs/tags/v0.6.1.tar.gz"
+  sha256 "a6d7ca37e878014e7ceb20e54dd81612a7232e1341ae9f22e5944b8713a50f45"
   license "MIT"
   head "https://github.com/joshua-mason/mac-headroom.git", branch: "main"
 
